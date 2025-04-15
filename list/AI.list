@@ -39,6 +39,10 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 
+DOMAIN-SUFFIX,api.ip.sb/ip
+DOMAIN-SUFFIX,api-ipv4.ip.sb/ip
+DOMAIN-SUFFIX,api-ipv6.ip.sb/ip 
+
 # DOMAIN-SUFFIX,googleapis.com
 # DOMAIN-SUFFIX,googleapis.cn
 # DOMAIN-SUFFIX,gstatic.com
